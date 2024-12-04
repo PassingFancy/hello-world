@@ -1,0 +1,1 @@
+@PassingFancy:registry=https://npm.pkg.github.com
